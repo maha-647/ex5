@@ -153,7 +153,8 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
-![Screenshot 2025-05-06 043625](https://github.com/user-attachments/assets/be0b99ed-0185-499c-b433-bf7d8c61e551)
+![Screenshot 2025-05-06 043701](https://github.com/user-attachments/assets/8b292937-61fe-47cd-989e-ca516feb6c59)
+
 
 
 
